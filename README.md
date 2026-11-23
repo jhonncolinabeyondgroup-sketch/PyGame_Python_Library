@@ -6,20 +6,6 @@ Proyecto académico que presenta la biblioteca **Pygame** mediante una aplicaci�
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-pygame-contador-interactivo/
-├── README.md
-├── requirements.txt
-├── contador_basico.py     # Versión estructurada / funcional
-├── contador_poo.py        # Versión con Programación Orientada a Objetos
-└── evidencia/
-    └── captura_funcionando.png   # (agrégala tú)
-```
-
----
-
 ## 📚 Investigación técnica sobre Pygame
 
 ### ¿Cuál es su propósito principal?
